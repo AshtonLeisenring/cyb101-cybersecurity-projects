@@ -1,4 +1,4 @@
-# CYB101 Cybersecurity Labs
+# CYB101 Cybersecurity Projects
 
 This repo contains personal write ups and safe artifacts from CodePath CYB101 projects.
 No course PDFs or proprietary materials are included. No malware or exploit binaries are included.
